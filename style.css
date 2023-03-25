@@ -1,0 +1,37 @@
+h1{
+    color: rgb(69, 69, 6);
+    font-family:Arial, Helvetica, sans-serif ;
+}
+h3{
+     color: darkred;
+    font-family:Arial, Helvetica, sans-serif;
+}
+tr{
+     color: saddlebrown;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p:only-child{
+     background-color: blue;
+}
+h3{
+color: burlywood;
+}
+.img{
+border-color: black;
+border-style: solid;
+border-width: 25px;
+}
+.g1{
+     border-color: black;
+     border-style: solid;
+     border-width: 25px;
+}
+footer{
+font-family: 'Courier New', Courier, monospace;
+color: blue;
+font-size: larger;
+}
+
